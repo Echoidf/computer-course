@@ -57,5 +57,12 @@ Deque 具有双端队列特性，有以下两种实现：
 
 ##### ArrayDeque栈类
 
+#### 查看对应章节
+ - [链表篇](https://github.com/Echoidf/computer-course/tree/main/algorithm/src/main/java/%E9%93%BE%E8%A1%A8%E7%AF%87)
+ - [队列篇](https://github.com/Echoidf/computer-course/tree/main/algorithm/src/main/java/%E9%98%9F%E5%88%97%E7%AF%87)
+ - [堆栈篇](https://github.com/Echoidf/computer-course/tree/main/algorithm/src/main/java/%E5%A0%86%E6%A0%88%E7%AF%87)
+ - [递归篇](https://github.com/Echoidf/computer-course/tree/main/algorithm/src/main/java/%E9%80%92%E5%BD%92%E7%AF%87)
+ - [排序篇](https://github.com/Echoidf/computer-course/tree/main/algorithm/src/main/java/%E6%8E%92%E5%BA%8F%E7%AF%87)
+
 
 
