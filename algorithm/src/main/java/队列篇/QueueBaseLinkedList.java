@@ -1,4 +1,4 @@
-package com.zql.队列篇;
+package 队列篇;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.zql.链表篇;
+package 链表篇;
 
 import java.util.Scanner;
 

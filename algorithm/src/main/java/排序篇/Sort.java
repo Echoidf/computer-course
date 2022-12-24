@@ -1,4 +1,4 @@
-package com.zql.排序篇;
+package 排序篇;
 
 import java.util.Arrays;
 
